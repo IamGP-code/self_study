@@ -184,7 +184,27 @@
 
 ---
 
-## 📝 1-Page Resume Template (Markdown)
+# 🧰 Job Search Toolkit — Tailored for Full Stack Developer Roles
+
+---
+
+## ✅ 1. Tailoring Your Resume for Specific Job Roles
+
+### 🎯 Target Job: Junior Full Stack Developer
+
+#### 🔧 Customizations to Make:
+
+| Section          | How to Tailor                                                                 |
+|------------------|-------------------------------------------------------------------------------|
+| **Objective**     | Mention Microsoft Cert + transitioning from BD to Full Stack                 |
+| **Skills**        | Highlight MERN stack: React, Node, MongoDB, Git, REST APIs                   |
+| **Projects**      | Focus on real-world use cases (e.g., login, payments, dashboards)            |
+| **Experience**    | Translate BD work into tech-relevant contributions (e.g., automation, tools) |
+| **Certifications**| Full cert name: _Microsoft Full-Stack Developer (Coursera)_                  |
+
+---
+
+### 📝 Sample Resume Objective (Career Switcher)
 
 
 ---
