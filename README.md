@@ -390,3 +390,96 @@ Would you like:
 - Help creating a **LinkedIn headline** that reflects your hybrid profile?
 
 Let me know and I’ll get it ready!
+
+## 💼 Examples of High-Paying Hybrid Tech Roles
+
+| Role                          | Why It Pays Well                              | Tech Involved                |
+|-------------------------------|-----------------------------------------------|------------------------------|
+| 🧠 **Solution Engineer**     | Owns product demos, pre-sales, technical PoCs | JS, APIs, AWS, debugging     |
+| 🧑‍💻 **Technical Consultant**| Builds integrations, talks to clients         | JS, DBs, scripting, Excel    |
+| 📈 **Product Analyst (Tech)**| Data + product + tech feature analysis        | SQL, JS, BI tools, logic     |
+| 🧪 **QA Automation Eng.**    | Automates test flows in dev pipelines         | JS, Selenium, REST APIs      |
+| 📦 **Platform Specialist**   | Owns CRM, SaaS tooling, workflows             | JS, Airtable, Zapier, APIs   |
+| ⚙️ **Low-Code Developer**    | Mixes custom JS with no-code                  | JS, Webhooks, Make, Zapier   |
+
+---
+
+## 💸 Why These Pay ₹20–30LPA+ (Even for New Grads)
+
+1. 💰 They're **closer to revenue / delivery**
+2. 🧠 Require **both logic + people skills**
+3. 🔥 In **high demand** — very few people know both dev + business
+4. 🌐 Global companies hire for these roles **remotely**
+5. 🛠️ You can showcase your value via **projects, not just DSA**
+
+---
+
+## 🧠 Skill Stack to Aim For
+
+### 👩‍💻 Core Tech
+
+| Area            | Must-Know Tools                  |
+|------------------|----------------------------------|
+| Web Dev          | HTML, CSS, JS, React, Node.js    |
+| APIs             | REST APIs, Postman, Swagger      |
+| Databases        | MongoDB, SQL basics              |
+| Cloud (Basic)    | AWS Free Tier, Firebase, Vercel  |
+| Scripting        | JS for automation, scripts       |
+
+---
+
+### 🎯 Biz + Product Skills
+
+| Skill                  | Learn Via                     |
+|------------------------|-------------------------------|
+| Agile & PM             | Google Project Management Cert|
+| SaaS Tools (Zapier etc)| YouTube + Practice            |
+| Analytics              | SQL + Google Data Studio      |
+| Communication          | Mock demos, LinkedIn posting  |
+
+---
+
+## 🧱 How to Build Your ₹25LPA Hybrid Resume
+
+### ✅ Must-Haves
+
+- 📜 Microsoft Full-Stack Certificate ✅  
+- 💻 GitHub Projects (real-world use cases)  
+- 💬 Resume that shows business context (e.g., “built dashboard used by 20+ users”)  
+- 📊 Keywords like: “API Integration”, “Client-Facing”, “Workflow Automation”  
+
+---
+
+## 🚀 Your Growth Roadmap (Sample)
+
+| Phase               | Timeline   | Focus                          |
+|---------------------|------------|--------------------------------|
+| Month 1             | DSA basics + JS automation + mini tool |
+| Month 2             | React + 1 business use case app         |
+| Month 3             | Certification + 2 projects on GitHub    |
+| Month 4             | Resume, LinkedIn, job outreach          |
+| Month 5–6           | Apply to hybrid tech roles globally     |
+
+---
+
+## 🌍 Where to Apply (for High ₹ Packages)
+
+| Platform          | What to Look For                                |
+|-------------------|--------------------------------------------------|
+| Cutshort          | Technical Consultant, Solution Engineer         |
+| Wellfound (Angel) | Startup hybrid roles, remote-friendly           |
+| LinkedIn          | “Full Stack + Analyst”, “Tech PM”, “Solution Eng”|
+| Instahyre         | Product-led startups paying 20+ LPA             |
+| Turing / Deel     | Remote hybrid roles with global companies       |
+
+---
+
+## 💬 Want a Custom Strategy?
+
+I can help you with:
+- 📄 A custom resume for hybrid dev roles  
+- 🧠 A daily study + job plan to hit ₹25LPA in 90–120 days  
+- 💼 Shortlisting real companies hiring for your skillset  
+
+Just say the word, and I’ll get it ready!
+
