@@ -243,3 +243,40 @@ Let me know if you'd like:
 Happy to support your transition into tech 🚀
 
 ---
+
+---
+
+## 🔍 Platforms to Apply On
+
+| Platform         | Use Case                                 |
+|------------------|-------------------------------------------|
+| [LinkedIn Jobs](https://www.linkedin.com/jobs)     | Filter by "Remote", "Entry-level", or "React"    |
+| [Cutshort](https://cutshort.io)                  | Startup jobs + auto-matching + referrals         |
+| [Instahyre](https://www.instahyre.com)           | Curated tech jobs in India                       |
+| [Wellfound (AngelList)](https://wellfound.com)   | Startup roles (Remote/Bangalore)                 |
+| [Turing](https://www.turing.com)                 | Global remote roles (freelance & full-time)      |
+| [Upwork](https://www.upwork.com)                 | Freelance client projects                        |
+
+---
+
+## 📌 Final Checklist
+
+- [ ] Tailor your **resume** with MERN projects
+- [ ] Write a **personalized cover letter** for each role
+- [ ] Upload your Microsoft cert to **LinkedIn & GitHub**
+- [ ] Publish your **career transition post** on LinkedIn
+- [ ] Start applying via trusted job platforms
+- [ ] Practice **basic DSA + system design questions**
+
+---
+
+## 💬 Need Help?
+
+Let me know if you’d like:
+
+- ✅ A **customized resume** for any company
+- ✅ Help **writing DMs to recruiters**
+- ✅ A list of **live job listings** based on your location
+- ✅ Resume + GitHub + LinkedIn review
+
+Let’s get you hired! 🚀
