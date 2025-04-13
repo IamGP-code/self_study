@@ -561,3 +561,76 @@ Example:
 🧑‍💻 Deployed on Vercel + Render; used by 20+ users for daily productivity tracking.
 
 
+## 🎯 Why ₹20–30 LPA Is Achievable (and How People Are Doing It)
+
+### ✅ What Makes It Pragmatic:
+
+| Factor                        | Why It Matters                                  |
+|-------------------------------|-------------------------------------------------|
+| 🎓 **CS background**          | You already have it (you said you're CSE grad)  |
+| 📜 **Certifications**         | From trusted brands (e.g. Microsoft on Coursera)|
+| 💻 **Real Projects**          | Deployed, used by others, with GitHub proof     |
+| 🌍 **Remote + Global Hiring** | Global startups hiring in India (USD-based)     |
+| 🧠 **Hybrid Skillset**        | Coding + Product + Biz = top-tier candidate     |
+
+---
+
+## 🚀 Who’s Hiring at ₹20–30 LPA for Hybrid Roles?
+
+- **Startups backed by VCs** (remote-friendly, India-based)
+- **Product-first companies** needing engineers who “get the business”
+- **Consulting firms** hiring full-stack/solution engineers
+- **US-based remote-first companies** (via Deel, Turing, etc.)
+
+---
+
+## 💥 Real Example Roles (2024–25)
+
+| Role                      | Salary Range        | Skills Required                        |
+|---------------------------|---------------------|----------------------------------------|
+| Full-Stack Engineer       | ₹22–28 LPA          | MERN stack, system design, APIs        |
+| Technical Solutions Eng.  | ₹18–30 LPA (remote) | JS, client demo skills, API knowledge  |
+| Product Dev Engineer      | ₹25–35 LPA (Equity) | React, Node, Firebase, business sense  |
+| Automation Specialist     | ₹20–24 LPA          | JS, testing tools, workflow logic      |
+
+---
+
+## 🧱 What You Must Build Alongside the Certificate
+
+1. ✅ At least **2 full-stack projects** — hosted, GitHub, with README  
+2. ✅ One project used by **real users** (20+ users = proof)  
+3. ✅ LinkedIn optimized with achievements, project stories, certs  
+4. ✅ Resume with role-specific keywords (e.g., “API Integration”, “Workflow Automation”)  
+5. ✅ Problem-solving skills (DSA/LC basics for screening rounds)  
+6. ✅ Comfort with live project demos + explaining your build  
+
+---
+
+## ⚠️ When It’s NOT Pragmatic
+
+- ❌ If you only complete the certificate and stop there  
+- ❌ If you don’t build **deployable, problem-solving projects**  
+- ❌ If you rely only on Indian job boards and no outreach/global platforms  
+- ❌ If your resume still looks like “fresher/BD executive with no tech proof”
+
+---
+
+## ✅ Realistic Path (Based on Actual Transitions I've Seen):
+
+| Timeline   | What You Do                            |
+|------------|-----------------------------------------|
+| Month 1–2  | Certify + Build Project #1              |
+| Month 3    | Build Project #2 (user-based)           |
+| Month 4    | Polish GitHub + Resume + LinkedIn       |
+| Month 5    | Outreach on Cutshort, AngelList, LinkedIn|
+| Month 6    | Mock interviews + Job Offers            |
+
+---
+
+## 📌 Bottom Line:
+
+> 🎯 **Yes, ₹20–30LPA is achievable — if you treat it like a mission, not just a hope.**  
+Certification = the foundation  
+Projects = your proof  
+Resume = your weapon  
+Outreach = your unlock
