@@ -204,7 +204,42 @@
 
 ---
 
-### 📝 Sample Resume Objective (Career Switcher)
+> 💡 _Tip: Customize the line about why you like the company for each application._
 
+---
+
+## 🏢 3. Companies That Align With Your Skills & Goals
+
+### 🚀 Based on your MERN stack and Microsoft certificate, these are a great fit:
+
+| Company Type           | Example Companies                               | Why They're a Good Fit                     |
+|------------------------|--------------------------------------------------|---------------------------------------------|
+| **Startup (6–10 LPA)** | Razorpay, Cred, Tekion, Smallcase               | Tech-first, value junior talent             |
+| **Product-Based (7–12 LPA)** | WebEngage, Whatfix, Postman, Hasura         | Use modern stacks, growing teams            |
+| **Remote-First (6–9 LPA)** | Turing, Deel, Remotebase, Lemon.io           | Hire junior MERN devs remotely              |
+| **Freelance Projects**  | Upwork, Fiverr, Contra, Lemon.io                | Build experience + side income              |
+| **Entry-Level Friendly**| GeekyAnts, Juspay, Mindtree, QikPod             | Offer structured growth & learning          |
+
+---
+
+## 🎯 Next Steps Checklist
+
+- [ ] Tailor your **resume** using the guidance above  
+- [ ] Write your **custom cover letter** for each job  
+- [ ] Add your **Microsoft cert** to LinkedIn & GitHub  
+- [ ] Start applying on platforms like Cutshort, Instahyre, and LinkedIn  
+- [ ] Reach out to hiring managers with a short, confident message  
+
+---
+
+## 🙋 Need Help?
+
+Let me know if you'd like:
+
+- ✅ A **custom resume** for any of the companies above  
+- ✅ Help writing **DMs to recruiters**  
+- ✅ A list of **live job openings** based on your current location  
+
+Happy to support your transition into tech 🚀
 
 ---
