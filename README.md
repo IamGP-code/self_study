@@ -634,3 +634,13 @@ Certification = the foundation
 Projects = your proof  
 Resume = your weapon  
 Outreach = your unlock
+
+## 🚀 Outcome: You're Job-Ready For
+
+| Role Title               | Salary Range (INR) | Target Platforms        |
+|--------------------------|--------------------|-------------------------|
+| 🧑‍💻 Full Stack Engineer      | ₹20–28 LPA          | LinkedIn, Cutshort       |
+| 🧠 Product-Focused Developer| ₹22–30 LPA          | AngelList, Instahyre     |
+| 🧩 Technical Consultant     | ₹18–26 LPA          | Wellfound, Deel, Remote  |
+| 💬 Solution Engineer        | ₹20–30+ LPA         | Pre-sales/Product Teams  |
+
