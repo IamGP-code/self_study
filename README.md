@@ -157,5 +157,34 @@
 
 ---
 
+# 💼 Job Strategy After Microsoft Full Stack Developer Certificate
+
+**Goal**: Transition from Business Development to Full Stack Developer (Target: ₹6–12 LPA)
+
+---
+
+## 🎯 Target Job Roles
+
+| Role                                   | Location        | Salary (LPA)     | Skills Required                                |
+|----------------------------------------|------------------|------------------|------------------------------------------------|
+| Junior Full Stack Developer            | Bangalore        | ₹6–10            | HTML, CSS, JS, Node.js, MongoDB, React         |
+| Junior Full Stack Developer (Remote)   | Remote (India)   | ₹5–9             | Same as above                                   |
+| Technical Consultant / Solution Engineer | Bangalore / Remote | ₹8–12        | Dev + Communication, Client-Facing, APIs       |
+| Freelance Full Stack Developer         | Remote (Global)  | ₹50k–₹1.5L/month | MERN Stack, APIs, Project Delivery              |
+
+---
+
+## 🏢 Companies Hiring (Examples)
+
+**Bangalore:**
+- Razorpay, Neokred, Smallcase, Tekion, Whatfix, Cred, Groww, Zoho
+
+**Remote:**
+- Vertex Cosmos, Mapsted Corp, Flexpilot AI, Slyce GmbH, Upwork, Turing
+
+---
+
+## 📝 1-Page Resume Template (Markdown)
+
 
 ---
