@@ -141,4 +141,21 @@
 
 **Tip**: Stay consistent. Share your progress weekly on LinkedIn — even if small. Employers love visible learners.
 
+## 📊 Full Stack Developer Courses — Comparison Table
+
+| Feature / Course        | **Microsoft (Coursera)**         | **Meta (Coursera)**           | **Odin Project**              | **FreeCodeCamp**              | **FullStackOpen**            | **Udemy Bootcamps**          |
+|-------------------------|----------------------------------|-------------------------------|-------------------------------|-------------------------------|------------------------------|-----------------------------|
+| 🏷️ **Brand Value**      | ⭐ High (Microsoft)              | ⭐ Very High (Meta)            | ❌ None                       | ❌ None                       | ⚠️ Medium (Univ. of Helsinki) | ⚠️ Depends on instructor    |
+| 💰 **Cost**             | ₹3–4K/month (Coursera)          | ₹3–4K/month                   | Free                          | Free                          | Free                         | ₹400–₹1000 (one-time)       |
+| ⏱️ **Duration**         | 3–6 months                      | 6–8 months                    | 6+ months                     | 6+ months                     | 4–6 months                   | 40–60 hours                 |
+| 🧠 **Depth of Content** | Intermediate                     | Beginner → Intermediate       | Beginner → Advanced           | Beginner → Advanced           | Advanced (React + Node)      | Varies                      |
+| 🛠️ **Tech Stack**       | HTML, CSS, JS, Node, MongoDB    | HTML, CSS, JS, React, Django  | HTML, JS, Node, React, DBs    | HTML, JS, Node, Express       | React, Node, MongoDB, GraphQL| Depends: MERN, Django, etc. |
+| 📦 **Project Building** | ✔️ Good                          | ✔️ Decent                     | ✅ Strong                     | ✅ Strong                     | ✅ Strong                    | ✔️ Depends                  |
+| 📜 **Certificate**      | ✅ Yes (Microsoft)               | ✅ Yes (Meta)                 | ❌ No                         | ❌ No                         | ❌ No                        | ✅ Yes                      |
+| 👨‍🏫 **Mentorship/Community** | Limited                    | Limited                       | Strong Discord                | Forum-based                   | Slack + GitHub               | Depends                     |
+| 👔 **Career-Focused**   | ✅ Resume + LinkedIn help        | ✅ Resume + mock interviews    | ❌ Self-guided                | ❌ Self-guided                | ❌ Self-guided               | ⚠️ Varies                   |
+
+---
+
+
 ---
