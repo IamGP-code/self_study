@@ -742,3 +742,43 @@ Since you’ve completed a **Microsoft-certified Full-Stack Developer course**, 
 
 #### 🎯 How to Find Jobs at Microsoft Partner Companies
 1. **Google**:
+
+
+3. **Microsoft Partner Finder**:
+Browse here: [Microsoft Solution Partner Directory](https://partner.microsoft.com/en-us/partne)
+
+---
+
+### 5. 📣 Sales-Tech or CRM Companies
+- Since you’re from a BD background, companies building CRM/Sales tools will *love* your insights.
+- You can contribute to development while offering product feedback from a user perspective.
+
+> Look at:
+- Freshworks
+- LeadSquared
+- Zoho
+- Pipedrive
+- Outplay
+
+---
+
+## ✅ Pro Tips to Stand Out in These Applications
+
+1. **Resume**: Keep it tech-focused with a “Career Switch Summary” at the top
+2. **Projects**: Build at least one live app related to sales, CRM, or SaaS (tie in your BD experience)
+3. **Cover Letter**: Write one that explains your switch and how your previous role adds value
+4. **LinkedIn Posts**: Share your learning journey, build in public, engage with dev communities
+5. **GitHub Profile**: Include READMEs, screenshots, and clear documentation to show off your work
+
+---
+
+## 💬 Need Help With Any of This?
+
+I can help you:
+- 📄 Create a tech-focused resume (career switch version)
+- 💡 Brainstorm project ideas using your BD + dev skills
+- 📨 Draft LinkedIn messages or cover letters
+- 🔍 Find real-time hiring partners or junior-friendly job boards
+
+Let’s get you job-ready fast. Want to start with your resume + project plan?
+
