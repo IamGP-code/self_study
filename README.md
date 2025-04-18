@@ -555,7 +555,7 @@ Example:
 
 **Include in your resume or GitHub README:**
 
-```markdown
+markdown
 💼 Built a full-stack task-tracking dashboard using React, Node.js, MongoDB, and Chart.js.  
 📊 Features real-time data visualization, JWT-based authentication, and RESTful APIs.  
 🧑‍💻 Deployed on Vercel + Render; used by 20+ users for daily productivity tracking.
